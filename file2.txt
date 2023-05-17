@@ -1,1 +1,7 @@
 Main branch data
+<<<<<<< HEAD
+=======
+Main branch data
+Main branch data
+>>>>>>> main
+feature-branch data here
