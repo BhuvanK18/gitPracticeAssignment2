@@ -1,1 +1,2 @@
 Some Changes in file 1
+Changes in file 1 before adding to feature branch
